@@ -2,43 +2,43 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "Queen Anya" 
+global.botname = "Queen HASHE" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝙋𝙄𝙆𝘼"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.author = "LAKIYA"  
+global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝙃𝘼𝙎𝙃𝙀✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.waterMark = "×͜× King ✘ Lakiya™ ✓" // Your own watermark 
+global.headerText = "Hashe by Lakiya" // text for header of menu         
+global.DocumentTitle = "KING⚔️LAKIYA" 
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['916900904828'] 
+global.ownername = "LAKIYAxMood"   // Owner name //        
+global.ownernumber = ['94770075694'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
-global.ytname = "YT: Ytname"   // Yt chanel name //
+global.ytname = "YT: Lakiya_Modder"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
+global.region = "Sri Lanka" // your country name
 global.state = "Assam" // your state name
 global.district = "Dibrugarh" // your district name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
+global.timezone = "Asia/Colombo" // search on google if you don't know the timezone of your country //
 global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.email = "lakminaudaya58@gmail.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['916900******','917355******']  // available soon
-global.sudo = ['916900******','917355******']  // Co - Owners //
+global.premium = ['94770075694','94770075694']  // available soon
+global.sudo = ['94770075694','94770075694']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
-name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
-name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
+name16 = "🎧🍂ℓακιγα οƒƒιϲιαℓ🍂🎧"
+name17 = "*ℓακιγα οƒƒιϲιαℓ*"
+name18 = "*ℓακιγα οƒƒιϲιαℓ*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `🎧🍂ℓακιγα οƒƒιϲιαℓ🍂🎧 `
+footer2 = `ℓακιγα οƒƒιϲιαℓ`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
